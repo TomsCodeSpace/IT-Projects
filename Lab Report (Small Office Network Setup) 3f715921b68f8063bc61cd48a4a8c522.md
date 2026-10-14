@@ -1,4 +1,4 @@
-# Lab Report (Small Office Network Setup)
+# Lab Report (Small Office Network Setup) (Cisco Packet Tracer)
 
 Created: October 12, 2026 10:39 AM
 Class: Networking
